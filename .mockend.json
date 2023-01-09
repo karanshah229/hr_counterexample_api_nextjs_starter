@@ -1,3 +1,5 @@
 {
-	"counter": 10
+	"Counter": {
+		"counter": 10
+	}
 }
